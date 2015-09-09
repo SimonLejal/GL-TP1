@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sh ./hw.sh
+exec bash hw.sh
